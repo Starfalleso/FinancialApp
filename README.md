@@ -4,8 +4,17 @@ Local desktop app built with PySide6 + SQLite.
 
 ## Run (Dev)
 
+Using `uv` (recommended):
+
 1. Install dependencies:
-   - `python -m pip install -e .`
+   - `uv sync`
+2. Start app:
+   - `uv run python app.py`
+
+Using `pip` (alternative):
+
+1. Install dependencies:
+   - `pip install -e .`
 2. Start app:
    - `python app.py`
 
