@@ -1,3 +1,7 @@
+
+<img width="1913" height="1008" alt="fis" src="https://github.com/user-attachments/assets/9c3e15fb-3068-4b9b-98ac-f18d0f68c1dd" />
+
+
 # Personal Finance Dashboard
 
 Local desktop app built with PySide6 + SQLite.
