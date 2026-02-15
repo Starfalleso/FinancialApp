@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+build/
+dist/
+wheels/
+*.egg-info
+*.spec
+
+# Virtual environments
+.venv
+
+# Local runtime database files
+finance.db
+*.db-wal
+*.db-shm
+*.db-journal
